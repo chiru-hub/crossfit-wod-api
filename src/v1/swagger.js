@@ -10,7 +10,7 @@ const options = {
       version: "1.0.0",
     },
   },
-  apis: ["./src/routes/workoutRoutes.js", "./src/database/Workout.js"],
+  apis: ["./src/v1/routes/workoutRoutes.js", "./src/database/Workout.js"],
 }
 
 // Docs in JSON format
